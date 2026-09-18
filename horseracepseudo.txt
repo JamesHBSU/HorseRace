@@ -1,0 +1,20 @@
+
+include iostream
+include random
+srand(time(NULL));
+std :: random_device rd;
+std::uniform_int_distribution<int> dist(0, 1);
+coin = dist(rd)
+ declaring horsenumber and horses 
+printarray for the horseNum and horses
+boolean statement for winner using horsenum and horses
+
+constant int track length = 15
+constant int horses = 5
+
+int main can be 
+int horses[] = {0 , 0, 0,0,0,}\
+declear the boolean for keep going set it to true
+for print lane -
+give the horse number and the array for the horses, we can
+prinnt lane of 5 columns by 15 long for all the horses  
