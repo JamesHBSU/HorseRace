@@ -1,4 +1,4 @@
-git add #include <iostream>
+#include <iostream>
 #include <string>
 int const track = 15;
 int horses[] = {0, 1, 2, 3, 4};
@@ -20,7 +20,7 @@ int main(void){
 	for(int i = 0; i < numHorses; i++){
 		position[i] = track - 1;
 	}//end for loop
-printTrack(posiiton);
+printTrack(positon);
 while (totalWinners == 0){
 	for(int i = 0; i < numHorses; i++){
 		position[i] -= rand() % 2;
