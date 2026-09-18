@@ -1,0 +1,5 @@
+Horse race algorithim - 
+	Obj is to make a game that randomly moves a "horse" across a track until it reaches the end. Do this by using a "coinflip" 
+Define a constant for track length and horses then declare our array of horses use a boolean called keep racing or keep going to let the program know its done.
+For our race loop we want to define the coinflip using random and set it to go from 0-1, we also want to declare our win condition checker, do this by using a for loop to check if the horse is at 15 and if it is we can declare the winner. Finally we will want to print the whole race allowing us to see how the race is going / went.
+
