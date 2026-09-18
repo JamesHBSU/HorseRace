@@ -1,0 +1,1 @@
+What I learned in this project so far is that breaking something up into pieces of what needs done is mentally easier so I don't feel too overloaded, for example breaking up the track and how im going to move them, having to get the engine running before the transmission kind of deal. Aswell as having a better understanding of for loops so I can visualize it better.
